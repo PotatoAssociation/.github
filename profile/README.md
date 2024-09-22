@@ -18,7 +18,7 @@
 ## 시연 영상 📢
 - [시연 영상](https://youtu.be/0Og16cmM_nA)
 - [디자인](https://www.figma.com/design/38awEp2NxV2wJhhetYzffl/nature-keeper?node-id=0-1&t=T7hb6EkJ8551RaCo-1)
-- Github Repository 페이지에서 바로 볼 수 있도록 추가
+- [ERD 구조](https://www.erdcloud.com/d/PpuKxNPvMiwuyrtyi)
 
 ## 서비스 소개
 ---
