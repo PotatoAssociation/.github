@@ -1,4 +1,4 @@
-# 감자정모회 - Nature Keeper
+# 감자정모회🥔 - Nature Keeper🌿
 ---
 ## 서비스 요약
 **Nature Keeper** - 대구 지역 상권을 활성화하고 환경 문제를 해결하는 웹 서비스입니다.
